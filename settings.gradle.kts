@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BodegaExpress"
+rootProject.name = "LA AGUE SPA"
 include(":app")
  

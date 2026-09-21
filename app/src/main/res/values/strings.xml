@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MiBodega</string>
+    <string name="app_name">LA AGUE SPA</string>
     <string name="action_settings">Settings</string>
     <string name="presentation">Presentación de la App</string>
 
@@ -12,8 +12,8 @@
     <string name="msg_fill_fields">Por favor complete todos los campos</string>
 
     <!-- Welcome Screen -->
-    <string name="welcome_msg">¡Bienvenido a Mi Bodega!</string>
-    <string name="btn_go_add_product">Ir a Ingresar Productos</string>
+    <string name="welcome_msg">¡Bienvenido a LA AGUE SPA!</string>
+    <string name="btn_go_add_product">Empezar a administrar</string>
     <string name="welcome_user">¡Bienvenido, %1$s!</string>
 
     <!-- Add Product Screen -->

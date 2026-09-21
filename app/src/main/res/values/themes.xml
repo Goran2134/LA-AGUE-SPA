@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.BodegaExpress" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.LaAgueSpa" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.BodegaExpress" parent="Base.Theme.BodegaExpress" />
+    <style name="Theme.LaAgueSpa" parent="Base.Theme.LaAgueSpa" />
 </resources>

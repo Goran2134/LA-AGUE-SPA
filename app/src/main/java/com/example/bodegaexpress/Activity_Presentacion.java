@@ -7,7 +7,7 @@ import android.os.Looper;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
- * SplashActivity: Pantalla de presentación (Splash Screen).
+ * Pantalla de presentación (Splash Screen).
  * Conceptos clave para los alumnos:
  * 1. Handler y Looper para ejecutar código de forma diferida (temporizador).
  * 2. Intent explícito para navegar de una actividad a otra.
